@@ -5,7 +5,7 @@ version = '1.0'
 setup(name='collective.shuttle',
       version=version,
       description="Zope 2 : traversal to objects not stored in ZODB.",
-      long_description=open("README.txt").read() + "\n" +
+      long_description=open("README.rst").read() + "\n" +
                        open("HISTORY.txt").read(),
       classifiers=[
         "Programming Language :: Python",
